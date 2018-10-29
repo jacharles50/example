@@ -1,6 +1,6 @@
 # example
 Here are a couple of graphs from of depression production statistics.  The first from Google Charts, is of production indices of producer goods (that is,metal, chemicals lumber, etc. used for industrial purposes)  and then consumer goods (automobiles, vacuum cleaners, and the like, from 1919-1939. 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSZhQ87qVl-gxcescFJZ-jiKmse1PXtbhe6TxXrXj3KnG4gpeuJC6fe43vNsgLyZBIqSYsTkz4zHJgY/pubchart?oid=1634783592&format=interactive" width="1200px" height="1200px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSZhQ87qVl-gxcescFJZ-jiKmse1PXtbhe6TxXrXj3KnG4gpeuJC6fe43vNsgLyZBIqSYsTkz4zHJgY/pubchart?oid=1634783592&format=interactive" width="1200" height="1200"></iframe>
 
 https://jacharles50.github.io/example/
