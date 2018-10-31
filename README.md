@@ -10,7 +10,7 @@ Here are a couple of graphs from of depression production statistics.  The first
 And this graph shows the sales of cigarettes and cars in the same period:  
 <iframe src="https://public.tableau.com/views/Depressionstats/Sheet2?:showVizHome=no&:embed=true" width="600px" height= "400px"></iframe>
 
-
+This is the final edit of this page.
 
 
 
